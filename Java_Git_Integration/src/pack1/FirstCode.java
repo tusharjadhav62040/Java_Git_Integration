@@ -10,7 +10,7 @@ public class FirstCode {
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter Number 1");
 		z = sc.nextInt();
-		System.out.println("Enter Number 2");
+		System.out.println("Enter Number 2 ");
 		y = sc.nextInt();
 		System.out.println("Before Swapping\nz = "+z+"\ny = "+y);
 		temp = z;   
